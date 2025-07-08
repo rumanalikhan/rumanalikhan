@@ -1,18 +1,24 @@
 ### Greetings! 👋 I'm Ruman Ali
 
-Welcome to my GitHub profile! I'm a passionate Developer with a vision to craft innovative software solutions that redefine possibilities in the tech world.
+Welcome to my GitHub! I'm a passionate software developer with a growing focus on building intelligent, scalable solutions using Python, AI, and modern backend technologies.
 
 #### 🚀 About Me
 
-As an enthusiastic graduate of BSCS, I am deeply committed to honing my programming skills and exploring emerging technologies. My journey in software development is driven by a relentless pursuit of excellence and a desire to make a meaningful impact in the industry.
+I'm a BSCS graduate dedicated to sharpening my programming skills and staying at the edge of emerging tech. My journey in software development is fueled by curiosity, creativity, and a deep interest in solving real-world problems through code.
 
 #### 💻 Current Focus
 
-I am currently focused on mastering Python for its versatility, Flutter for cross-platform app development, and SQL for database management. Additionally, I am diving into advanced algorithms and data structures to strengthen my problem-solving abilities.
+I'm currently working on:
+- Python for backend development and automation  
+- Flutter for cross-platform mobile and web apps  
+- SQL & Firebase for data management  
+- Exploring AI tools and libraries like FastAPI, Pandas, and Scikit-learn  
+
+I'm also actively working on algorithms and data structures to level up my problem-solving game.
 
 #### 🌱 Learning Journey
 
-I firmly believe in the importance of continuous learning and growth. I actively seek opportunities to expand my knowledge base and stay updated with the latest developments in the ever-evolving field of technology.
+I believe in continuous learning. Whether it's diving into a new framework or building a personal project, I'm always exploring ways to grow as a developer and thinker.
 
 
 #### 🤝 Collaboration
@@ -27,24 +33,41 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/rumanali) to 
 
 #### 😄 Fun Fact
 
-When I'm not coding, you can find me immersing myself in the beauty of nature, spending time with adorable cats, or observing and admiring various animals in their natural habitats.
+Outside of coding, I love observing animals, spending time with cats, and getting lost in nature 🌿.
 
 
 ### 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/rumanali)
 
-# 💻 Tech Stack:
-![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
+
+# 💻 Tech Stack
+
+### 🧑‍💻 Languages
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+
+### 🧩 Frameworks & Libraries
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
-![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white)
+
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=matplotlib&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+
+### 🛠️ Tools & Platforms
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MS SQL Server](https://img.shields.io/badge/MSSQL-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
+![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Visual Studio Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91?style=for-the-badge&logo=visual-studio&logoColor=white)
