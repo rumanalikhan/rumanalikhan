@@ -12,8 +12,8 @@ I'm currently working on:
 - Python for backend development and automation  
 - Flutter for cross-platform mobile and web apps  
 - SQL & Firebase for data management  
-- Exploring AI tools and libraries like FastAPI, Pandas, and Scikit-learn
 - .NET-based applications and APIs with C#
+- Exploring AI tools and libraries like FastAPI, Pandas, and Scikit-learn
 - Building efficient algorithms & sharpening problem-solving skills
 
 I'm also actively working on algorithms and data structures to level up my problem-solving game.
