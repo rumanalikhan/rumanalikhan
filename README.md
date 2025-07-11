@@ -4,7 +4,7 @@ Welcome to my GitHub! I'm a passionate software developer with a growing focus o
 
 #### 🚀 About Me
 
-I'm a BSCS graduate dedicated to sharpening my programming skills and staying at the edge of emerging tech. My journey in software development is fueled by curiosity, creativity, and a deep interest in solving real-world problems through code.
+I'm a BSCS graduate dedicated to sharpening my programming skills and staying at the edge of emerging tech. My journey in software development is fueled by curiosity, creativity, and a deep interest in solving real-world problems through code. With a solid background in the .NET Framework, I’ve developed robust backend systems and desktop applications using C# and Microsoft technologies. Alongside that, I actively build mobile/web apps with Flutter and dive into Python for backend automation and AI-based solutions.
 
 #### 💻 Current Focus
 
@@ -12,7 +12,9 @@ I'm currently working on:
 - Python for backend development and automation  
 - Flutter for cross-platform mobile and web apps  
 - SQL & Firebase for data management  
-- Exploring AI tools and libraries like FastAPI, Pandas, and Scikit-learn  
+- Exploring AI tools and libraries like FastAPI, Pandas, and Scikit-learn
+- .NET-based applications and APIs with C#
+- Building efficient algorithms & sharpening problem-solving skills
 
 I'm also actively working on algorithms and data structures to level up my problem-solving game.
 
